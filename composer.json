@@ -1,0 +1,15 @@
+{
+    "name": "tuanhoang/demopackage",
+    "authors": [
+        {
+            "name": "Tuan Hoang",
+            "email": "nhoangtuan@vlab.tech"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Tuanhoang\\Demopackage\\": "src/"
+        }
+    }
+}
