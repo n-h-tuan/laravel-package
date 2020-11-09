@@ -13,7 +13,7 @@ class DemoPackgeServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        $this->app->make('tuanhoang\demopackage\TaskController');
+        // $this->app->make('tuanhoang\demopackage\TaskController');
     }
 
     /**
